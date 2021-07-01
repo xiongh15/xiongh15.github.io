@@ -1,37 +1,30 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Hao Xiong"
+excerpt: "Hao Xiong"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I'm Hao Xiong, a PhD candidate in Chemical Eingineering, supervised by Prof. Fei Wei, at Tsinghua University(THU,清华大学),China. My research interests are mainly focused on
+This is Hao Xiong's personal homepage.
 
-​	 (1)In-situ heterogeneous catalysis on zeolite catalysts;
+## A short introduction 
 
-​	(2)Atomic-scale imaging of zeolites and absorbed small molecules using scanning transmission electron microscopy
-
-​	(3)Electron ptychography——super-resolution coherent diffractive imaging of porous materials.
-
-In-situ heterogeneous catalysis on zeolite catalysts
-======
-as we know
-
-Atomic-scale imaging of zeolites and absorbed small molecules using scanning transmission electron microscopy
-======
-
-
-# Electron ptychography——super-resolution coherent diffractive imaging of porous materials
-
-Lalala
+My name is Hao Xiong, and I am a PhD candidate supervised by [Prof. Fei Wei](https://www.chemeng.tsinghua.edu.cn/info/1094/2395.htm)  at Tsinghua University(THU,清华大学) , starting from 2019. I obtained my undergraduate certificate in chemical engineering, and more recently embarked in studying advanced electron microscopy.  Currently, I am working at the spatial and temporal non-periodic phenomenon in sub-nanoscale heterogeneous catalysis. Moreover, I am a huge fun of badminton and [CSGO](https://csgo.com/), which we can talk about over night except for the above academic thing.
 
 
 
+## RESEARCH INTEREST:
+
+- Heterogeneous catalysis on zeolite catalysts
+
+- In-situ  imaging of zeolites and absorbed small molecules at atomic scale
+
+- Electron ptychography: super-resolution coherent diffractive imaging of porous materials
 
 
-For more info
+For more information
 ------
-For more info and cooperation, please contact me(xiongh19@mails.tsinghua.edu.cn) .
+If you’d like to cooperate with me, feel free to [contact me](xiongh19@mails.tsinghua.edu.cn) at any time. Together, we could enjoy doing science. 

@@ -12,5 +12,3 @@ Transport phenomena play an essential role in catalysis. While zeolite catalysis
 
 
 
-[Download paper here](http://xiongh15.github.io/files/Small_2019.pdf)
-

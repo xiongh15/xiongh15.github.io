@@ -14,11 +14,12 @@ Education
 * B.S. in Chemical Engineering, Tsinghua University, 2019
 * Ph.D in Chemical Engineering, Tsinghua University, 2024 (expected)
 
-Skills
+Reseach Interest
 ======
-* Python
-* Matlab
-* Skill 3
+* Heterogeneous catalysis on zeolite catalysts
+* In-situ  imaging of zeolites and absorbed small molecules at atomic scale
+
+* Electron ptychography: super-resolution coherent diffractive imaging of porous materials
 
 Publications
 ======

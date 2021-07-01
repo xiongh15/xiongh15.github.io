@@ -12,5 +12,3 @@ The nature of chaos is in that elusive flow that is an advanced order out of our
 
 
 
-[Download paper here](http://xiongh15.github.io/files/ACSnano_2021.pdf)
-

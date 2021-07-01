@@ -12,5 +12,5 @@ The micro-structures of catalyst materials basically affect their macro-architec
 
 
 
-[Download paper here](http://xiongh15.github.io/files/NC_2021.pdf)
+
 
