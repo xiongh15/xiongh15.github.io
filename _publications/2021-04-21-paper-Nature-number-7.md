@@ -2,7 +2,7 @@
 title: "A single-molecule van der Waals compass"
 collection: publications
 permalink: /publication/2021-04-21-paper-Nature-number-7
-excerpt: 'Inspired by the traditional compass, here we use a para-xylene molecule as a rotating pointer to detect the host–guest van der Waals interactions in the straight channel of the MFI-type zeolite framework. '
+excerpt: ''
 date: 2021-04-21
 venue: 'Nature'
 paperurl: 'https://www.nature.com/articles/s41586-021-03429-y'
