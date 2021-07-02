@@ -2,7 +2,7 @@
 title: "Resolving atomic SAPO-34/18 intergrowth architectures for methanol conversion by identifying light atoms and bonds"
 collection: publications
 permalink: /publication/2021-04-13-paper-NC-number-6
-excerpt: 'Here, we achieve the real-space imaging of the atomic lattices in SAPO-34 and SAPO-18 zeolites, including the Al–O–P atoms and bonds, by the integrated differential phase contrast scanning transmission electron microscopy (iDPC-STEM).'
+excerpt: ''
 date: 2021-04-13
 venue: 'Nature Communication'
 paperurl: 'https://www.nature.com/articles/s41467-021-22438-z'

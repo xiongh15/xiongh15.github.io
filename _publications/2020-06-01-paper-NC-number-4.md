@@ -2,7 +2,7 @@
 title: "Imaging the node-linker coordination in the bulk and local structures of metal-organic frameworks"
 collection: publications
 permalink: /publication/2020-06-01-paper-NC-number-4
-excerpt: ' Here, we report the low-dose imaging of a beam-sensitive MOF, MIL-101, under a Cs-corrected STEM based on the integrated differential phase contrast (iDPC) technique. The images resolve the coordination of Cr nodes and organic linkers inside the frameworks with an information transfer of ~1.8Å. '
+excerpt: ''
 date: 2020-06-01
 venue: 'Nature Communication'
 paperurl: 'https://www.nature.com/articles/s41467-020-16531-y'

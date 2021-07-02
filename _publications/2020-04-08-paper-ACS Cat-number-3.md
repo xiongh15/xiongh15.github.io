@@ -2,7 +2,7 @@
 title: "Insight into the Effects of Water on the Ethene to Aromatics Reaction with HZSM-5"
 collection: publications
 permalink: /publication/2020-04-08-paper-ACS Cat-number-3
-excerpt: ' We found that water seriously decreased the conversion of ethene and the yield of aromatics, suppressed the hydrogen transfer reaction, and changed the distribution of aromatics at low reaction temperature (300 °C). '
+excerpt: ''
 date: 2020-04-08
 venue: 'ACS Catalysis'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acscatal.9b05552'

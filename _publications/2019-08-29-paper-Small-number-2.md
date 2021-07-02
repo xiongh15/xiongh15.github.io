@@ -2,7 +2,7 @@
 title: "Transport Phenomena in Zeolites in View of Graph Theory and Pseudo-Phase Transition"
 collection: publications
 permalink: /publication/2019-08-29-paper-Small-number-2
-excerpt: ' Due to the presence of spatial confinement and an ordered structure,discrete models that include graph theory can build a bridge between microscopic quantum physics and macroscopic catalyst engineering'
+excerpt: ''
 date: 2019-08-29
 venue: 'Small'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/smll.201901979'

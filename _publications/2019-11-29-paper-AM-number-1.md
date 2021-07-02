@@ -2,7 +2,7 @@
 title: "Atomic Spatial and Temporal Imaging of Local Structures and Light Elements inside Zeolite Frameworks"
 collection: publications
 permalink: /publication/2019-11-29-paper-AM-number-1
-excerpt: ' Atomic-resolution imaging of beam-sensitive zeolite frameworks is achieved with an ultralow dose'
+excerpt: ''
 date: 2019-11-29
 venue: 'Advanced Material'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201906103'
