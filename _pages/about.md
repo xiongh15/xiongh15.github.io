@@ -22,7 +22,7 @@ My name is Hao Xiong, and I am a PhD candidate supervised by [Prof. Fei Wei](htt
 
 - In-situ  imaging of zeolites and absorbed small molecules at atomic scale
 
-- Electron ptychography: super-resolution coherent diffractive imaging of porous materials
+- Electron ptychography: super-resolution scanning coherent diffractive imaging of porous materials
 
 
 For more information
