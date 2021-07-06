@@ -27,4 +27,4 @@ My name is Hao Xiong, and I am a PhD candidate supervised by [Prof. Fei Wei](htt
 
 For more information
 ------
-If you’d like to cooperate with me, feel free to [contact me](xiongh19@mails.tsinghua.edu.cn) at any time. Together, we could enjoy doing science. 
+If you’d like to cooperate, feel free to [contact me](xiongh19@mails.tsinghua.edu.cn) at any time. Together, we could enjoy doing science. 
