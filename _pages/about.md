@@ -10,8 +10,6 @@ redirect_from:
 
 This is Hao Xiong's personal homepage.
 
-Mail: xiongh19@mails.tsinghua.edu.cn
-
 ## Introduction 
 
 My name is Hao Xiong, and I am a PhD candidate supervised by [Prof. Fei Wei](https://www.chemeng.tsinghua.edu.cn/info/1094/2395.htm)  at Tsinghua University(THU,清华大学) , starting from 2019. I obtained my undergraduate certificate in chemical engineering, and more recently embarked in studying advanced electron microscopy.  Currently, I am working at the spatial and temporal non-periodic phenomenon in sub-nanoscale heterogeneous catalysis. Moreover, I am a huge fan of badminton and CSGO, which we can talk about over night except for the above academic thing.

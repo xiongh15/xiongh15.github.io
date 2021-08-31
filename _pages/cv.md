@@ -33,12 +33,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Program
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Service and leadership
 ======
 * Currently signed in to Flotu Lab, Department of Chemical Engineering, Tsinghua University
