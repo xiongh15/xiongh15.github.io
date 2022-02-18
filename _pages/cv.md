@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemical Engineering, Tsinghua University, 2019
-* Ph.D in Chemical Engineering, Tsinghua University, 2024 (expected)
+* B.S. in Chemical Engineering, Tsinghua University, 2015
+* Ph.D. in Chemical Engineering, Tsinghua University, 2019
 
-Reseach Interest
+RESEARCH Interest
 ======
 * Heterogeneous catalysis on zeolite catalysts
 * In-situ  imaging of zeolites and absorbed small molecules at the atomic scale

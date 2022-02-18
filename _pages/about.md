@@ -12,7 +12,7 @@ This is Hao Xiong's personal homepage.
 
 ## Introduction 
 
-My name is Hao Xiong, and I am a PhD candidate supervised by [Prof. Fei Wei](https://www.chemeng.tsinghua.edu.cn/info/1094/2395.htm)  at Tsinghua University(THU,清华大学) , starting from 2019. I obtained my undergraduate certificate in chemical engineering also in THU, and more recently embarked in studying advanced electron microscopy.  Currently, I am working at the spatial and temporal non-periodic phenomenon in sub-nanoscale heterogeneous catalysis. 
+My name is Hao Xiong, and I am a Ph.D. candidate supervised by [Prof. Fei Wei at Tsinghua University(THU,清华大学), starting from 2019. I obtained my undergraduate certificate in chemical engineering also in THU, and more recently embarked on studying advanced electron microscopy.  Currently, I am working on the spatial and temporal non-periodic phenomenon in sub-nanoscale heterogeneous catalysis. 
 
 
 
