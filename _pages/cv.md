@@ -35,4 +35,4 @@ Talks
 
 Service and leadership
 ======
-* PhD candidate, currently signed in to Flotu Lab, Department of Chemical Engineering, Tsinghua University
+* Ph.D. candidate, currently signed in to Flotu Lab, Department of Chemical Engineering, Tsinghua University
