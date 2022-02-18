@@ -17,7 +17,7 @@ Education
 Reseach Interest
 ======
 * Heterogeneous catalysis on zeolite catalysts
-* In-situ  imaging of zeolites and absorbed small molecules at atomic scale
+* In-situ  imaging of zeolites and absorbed small molecules at the atomic scale
 
 * Electron ptychography: super-resolution coherent diffractive imaging of porous materials
 
@@ -35,4 +35,4 @@ Talks
 
 Service and leadership
 ======
-* Currently signed in to Flotu Lab, Department of Chemical Engineering, Tsinghua University
+* PhD candidate, currently signed in to Flotu Lab, Department of Chemical Engineering, Tsinghua University
