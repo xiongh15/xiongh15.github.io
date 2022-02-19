@@ -2,7 +2,7 @@
 title: "Atomic Scale Structure of Beam Sensitive Materials"
 collection: publications
 permalink: /publication/2020-12-07-paper-CJCUJ-number-6
-excerpt: ' '
+excerpt: ''
 date: 2020-12-07
 venue: 'Chemical Journal of Chinese Universities-Chinese'
 paperurl: 'http://www.cjcu.jlu.edu.cn/CN/10.7503/cjcu20200548'

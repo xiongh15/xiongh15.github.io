@@ -1,7 +1,7 @@
 ---
 title: "A single-molecule van der Waals compass"
 collection: publications
-permalink: /publication/2021-04-21-paper-Nature-number-7
+permalink: /publication/2021-04-21-paper-Nature-number-9
 excerpt: ''
 date: 2021-04-21
 venue: 'Nature'

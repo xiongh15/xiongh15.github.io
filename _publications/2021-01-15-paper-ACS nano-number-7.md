@@ -2,7 +2,7 @@
 title: "Monochromatic Carbon Nanotube Tangles Grown by Microfluidic Switching between Chaos and Fractals"
 collection: publications
 permalink: /publication/2021-01-15-paper-ACS nano-number-7
-excerpt: ' '
+excerpt: ''
 date: 2021-01-15
 venue: 'ACS nano'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acsnano.0c10300'
