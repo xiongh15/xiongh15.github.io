@@ -1,10 +1,10 @@
 ---
-title: "In situ Imaging of the Sorption-induced Sub-cell Topologic Flexibility of a Rigid Zeolite Framework"
+title: "In situ Imaging of the Sorption-induced Sub-cell Topological Flexibility of a Rigid Zeolite Framework"
 collection: publications
 permalink: /publication/2022-04-01-paper-Science-number-11
 excerpt: ''
-date: 2022-04-01
-venue: 'Science, in Press'
+date: 2022-04-29
+venue: 'Science'
 paperurl: ''
 citation: 'In press'
 ---
