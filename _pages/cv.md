@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemical Engineering, Tsinghua University, 2015
+* B.E. in Chemical Engineering, Tsinghua University, 2015
 * Ph.D. in Chemical Engineering, Tsinghua University, 2019
 
 RESEARCH Interest
