@@ -1,28 +1,30 @@
 ---
-layout: about
-title: about
 permalink: /
-description: A practitioner of Molecular Simulation, Statistical Physics, and Machine Learning. 
-
-profile:
-  align: left
-  image: prof_pic.jpg
-
-news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
-
+title: "Hao Xiong"
+excerpt: "Hao Xiong"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-I am a Ph.D. student at <a href="https://cce.caltech.edu/">Caltech CCE</a> working with <a href="http://tensorlab.cms.caltech.edu/users/anima/group.html">Prof. Anima Anandkumar</a>. I collaborate closely with colleagues from the <a href="https://millergroup.caltech.edu/Miller_Group/Home.html">Miller Group</a> and <a href="https://www.entos.ai/about">Entos</a>. My research centers around developing physics-driven geometric learning approaches to tackle complex problems in chemistry and biology, especially for the study of electronic structure and dynamics out of equilibrium.
+This is Hao Xiong's personal homepage.
 
-I earned my BSc from Peking University in 2019. As an undergraduate student I worked in the <a href="https://www.chem.pku.edu.cn/gaoyq/">Gao Group</a> at <a href="https://www.chem.pku.edu.cn/en/">PKU CCME</a>, where I studied the statistical mechanics of confined soft matters. 
+## Introduction 
 
-{% comment %} 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Hao Xiong, and I am a Ph.D. candidate supervised by [Prof. Fei Wei](https://www.chemeng.tsinghua.edu.cn/info/1094/2395.htm) at Tsinghua University(THU,清华大学), starting in 2019. I obtained my bachelor's degree in chemical engineering at THU, and more recently embarked on studying advanced electron microscopy.  Currently, I am working on the spatial and temporal non-periodic phenomenon in sub-nanoscale heterogeneous catalysis. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-{% endcomment %}
+## Research interest:
+
+- Heterogeneous catalysis on zeolite catalysts
+
+- In-situ imaging of zeolites and absorbed small molecules at the atomic scale
+
+- Electron ptychography: super-resolution scanning coherent diffractive imaging of porous materials
+
+
+For more information
+------
+If you’d like to cooperate, feel free to contact me at any time. Together, we could enjoy doing science. 
