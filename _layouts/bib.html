@@ -190,7 +190,16 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+          {%- if entry.doi %}
+          <div style="display: table;"><div style="display: table-row; height: 6px"></div>
+          <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
+          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="{{entry.doi}}" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="{{entry.doi}}" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          </div><div style="display: table-row; height: 10px"></div>
           </div>
+          {% endif %}
+          </div>
+
+
 
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
