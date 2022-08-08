@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Howdy! I am currently a 4th year Ph.D. student in the Department of Chemical Engineering, Tsinghua University. My advisor is [Prof. Fei Wei](https://www.chemeng.tsinghua.edu.cn/info/1165/2600.htm), who leads the [Fluidization Lab of Tsinghua University (FLOTU)](https://www.chemeng.tsinghua.edu.cn/info/1165/2600.htm). I obtained my bachelor’s degree in chemical engineering at THU, and more recently embarked on studying advanced electron microscopy. 
+Howdy! I am currently a 4th year Ph.D. student in the Department of Chemical Engineering, Tsinghua University. My advisor is [Prof. Fei Wei](https://www.chemeng.tsinghua.edu.cn/info/1165/2600.htm), who leads the [Fluidization Lab of Tsinghua University (FLOTU)](http://www.flotu.tsinghua.edu.cn/). I obtained my bachelor’s degree in chemical engineering at THU, and more recently embarked on studying advanced electron microscopy. 
 
 
 
