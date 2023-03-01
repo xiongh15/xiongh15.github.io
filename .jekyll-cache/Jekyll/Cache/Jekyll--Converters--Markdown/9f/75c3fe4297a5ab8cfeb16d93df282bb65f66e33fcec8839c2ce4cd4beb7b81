@@ -1,12 +1,102 @@
-I"̈́<!-- _pages/publications.md -->
+I"��<!-- _pages/publications.md -->
 
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 <div class="publications">
+  <h2 class="year">2023</h2>
+ <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/2023CIESC.png" /></div>
+
+        <!-- Entry bib key -->
+        <div id="Xiong2023CIESC" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Heavy oil to chemicals: multi-stage downer catalytic pyrolysis</div>
+          <!-- Author -->
+          <div class="author">
+          <a href="https://www.thuxionghao.cn">Xiong, Hao*</a>,&nbsp;Liang, Xiaoyu,&nbsp;Zhang, Chenxi,&nbsp;Bai, Haolong,&nbsp;Fan, Xiaoyu,&nbsp; and 
+                Wei, Fei
+
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>CIESC Journal</em> 2023
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://hgxb.cip.com.cn/CN/10.11949/0438-1157.20221188" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          <div style="display: table;"><div style="display: table-row; height: 6px"></div>
+          <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
+          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.11949/0438-1157.20221188" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.11949/0438-1157.20221188" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          </div><div style="display: table-row; height: 10px"></div>
+          </div>
+          
+          </div>
+
+
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>High yield of petrochemicals, such as light olefins and aromatics, is an important way for low-carbon utilization of petroleum. Based on the energy structure and technical advantages in the field of catalytic cracking in China, the development of heavy oil to directly produce chemicals (light olefins and aromatics) by catalytic cracking in zeolite catalysis under high severity gains higher profitability than the corresponding refinery with conventional FCC. It poses great challenges to the design of multi-phase reactors. Counter-current interaction between feed-oil and deep-cracking catalysts under high severity should be achieved to prevent preferential adsorption of heavy aromatics, reduce diffusion resistance in zeolitic nanopores, and boost deep cracking of short-chain alkanes. Millisecond residence time and plug-flow residence time distribution should be obtained to inhibit secondary reactions and reduce dry gas and coke production. This review focuses on the progress of discrete transport, reaction, and deactivation processes in the catalytic cracking of heavy oil directly to chemicals, as well as the progress of gas-solid heterogeneous reaction engineering and other related fields. The latest research work on the discrete adsorption-diffusion phenomenon and host-guest interactions of small molecules in zeolites is introduced, and it is proposed to use facet-selective nanosized zeolites with high resistance to coke formation and gas-solid countercurrent contact plug flow reactors to overcome the above challenges. Finally, the multi-stage downer catalytic pyrolysis (MDCPTM) developed by Tsinghua University was introduced, which uses multi-stage downers in series while achieving both millisecond-level plug-flow within one stage and counter-current gas solids interaction between each stage. In the 1 kg/h pilot plant, MDCPTM can gain excellent production distribution (51.54%(mass) yield of light olefins and 80.78%(mass) selectivity of BTEX in gasoline). With MDCPTM as the core unit, the process, i.e., heavy oil to chemicals, HOTC, is reported where the yield of the total chemicals can be up to 75%(mass), with carbon emission reduced by more than 70% compared with existing technologies.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
   <h2 class="year">2022</h2>
  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/2022Science.png" /></div>
+
+        <!-- Entry bib key -->
+        <div id="Xiong2022Science" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">In situ imaging of the sorption-induced subcell topological flexibility of a rigid zeolite framework</div>
+          <!-- Author -->
+          <div class="author">
+          <a href="https://www.thuxionghao.cn">Xiong, Hao*</a>,&nbsp;Liu, Zhiqiang*,&nbsp;Chen, Xiao,&nbsp;Wang, Huiqiu,&nbsp;Qian, Weizhong,&nbsp;Zhang, Chenxi,&nbsp;Zheng, Anmin,&nbsp; and 
+                Wei, Fei
+
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Science</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://www.science.org/doi/10.1126/science.abn7667" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          <div style="display: table;"><div style="display: table-row; height: 6px"></div>
+          <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
+          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1126/science.abn7667" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/science.abn7667" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          </div><div style="display: table-row; height: 10px"></div>
+          </div>
+          
+          </div>
+
+
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>The crystallographic pore sizes of zeolites are substantially smaller than those inferred from catalytic transformation and molecular sieving capabilities, which reflects flexible variation in zeolite opening pores. Using in situ electron microscopy, we imaged the straight channels of ZSM-5 zeolite with benzene as a probe molecule and observed subcell flexibility of the framework. The opening pores stretched along the longest direction of confined benzene molecules with a maximum aspect change of 15%, and the Pnma space group symmetry of the MFI framework caused adjacent channels to deform. This compensation maintained the stability and rigidity of the overall unit cell within 0.5% deformation. The subcell flexibility originates mainly from the topologically soft silicon-oxygen-silicon hinges between rigid tetrahedral SiO4 units, with inner angles varying from 135\,^∘to 153\,^∘, as confirmed by ab initio molecular dynamics simulations. The pores of zeolites allow for selective adsorption of molecules based on their size and shape. The pore sizes that are calculated based on their structure are smaller than what is expected from their absorption and chemical reaction properties, which implies that the frameworks must have inherent flexibility. Xiong et al. used environmental transmission electron microscopy to image the straight channels of ZSM-5 zeolite with adsorbed benzene (see the Perspective by Willhammar and Zou). The pores stretched along the longest direction of the confined benzene molecules by up to 15%. This large change was compensated for by adjacent channels so that the overall deformation of the original unit cells was less than 0.5%. ?PDS Transmission electron microscopy reveals that benzene stretches channels of ZSM-5 zeolite and deforms empty adjacent channels.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/2022ACS.png" /></div>
 
@@ -33,10 +123,10 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-            <a href="https://doi.org/10.1021/acscatal.1c04961" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="10.1021/acscatal.1c04961" class="btn btn-sm z-depth-0" role="button">HTML</a>
           <div style="display: table;"><div style="display: table-row; height: 6px"></div>
           <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
-          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1021/acscatal.1c04961" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1021/acscatal.1c04961" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1021/acscatal.1c04961" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1021/acscatal.1c04961" data-hide-no-mentions="true" class="altmetric-embed"></div>
           </div><div style="display: table-row; height: 10px"></div>
           </div>
           
@@ -80,7 +170,7 @@
             <a href="https://www.nature.com/articles/s41586-022-04876-x" class="btn btn-sm z-depth-0" role="button">HTML</a>
           <div style="display: table;"><div style="display: table-row; height: 6px"></div>
           <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
-          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-04876-x" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-022-04876-x" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-04876-x" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-022-04876-x" data-hide-no-mentions="true" class="altmetric-embed"></div>
           </div><div style="display: table-row; height: 10px"></div>
           </div>
           
@@ -125,7 +215,7 @@
             <a href="https://www.nature.com/articles/s41467-022-30538-7" class="btn btn-sm z-depth-0" role="button">HTML</a>
           <div style="display: table;"><div style="display: table-row; height: 6px"></div>
           <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
-          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1038/s41467-022-30538-7" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-022-30538-7" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1038/s41467-022-30538-7" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-022-30538-7" data-hide-no-mentions="true" class="altmetric-embed"></div>
           </div><div style="display: table-row; height: 10px"></div>
           </div>
           
@@ -136,50 +226,6 @@
           <!-- Hidden abstract block -->
           <div class="abstract hidden">
             <p>The acid sites of zeolite are important local structures to control the products in the chemical conversion. However, it remains a great challenge to precisely design the structures of acid sites, since there are still lack the controllable methods to generate and identify them with a high resolution. Here, we use the lattice mismatch of the intergrown zeolite to enrich the inherent Lewis acid sites (LASs) at the interface of a mortise-tenon ZSM-5 catalyst (ZSM-5-MT) with a 90\,^∘intergrowth structure. ZSM-5-MT is formed by two perpendicular blocks that are atomically resolved by integrated differential phase contrast scanning transmission electron microscopy (iDPC-STEM). It can be revealed by various methods that novel framework-associated Al (AlFR) LASs are generated in ZSM-5-MT. Combining the iDPC-STEM results with other characterizations, we demonstrate that the partial missing of O atoms at interfaces results in the formation of inherent AlFR LASs in ZSM-5-MT. As a result, the ZSM-5-MT catalyst shows a higher selectivity of propylene and butene than the single-crystal ZSM-5 in the steady conversion of methanol. These results provide an efficient strategy to design the Lewis acidity in zeolite catalysts for tailored functions via interface engineering.</p>
-          </div>
-        </div>
-      </div>
-</li>
-<li><!-- _layouts/bib.html -->
-      <div class="row">
-        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/2022Science.png" /></div>
-
-        <!-- Entry bib key -->
-        <div id="Xiong2022Science" class="col-sm-8">
-        
-          <!-- Title -->
-          <div class="title">In situ imaging of the sorption-induced subcell topological flexibility of a rigid zeolite framework</div>
-          <!-- Author -->
-          <div class="author">
-          <a href="https://www.thuxionghao.cn">Xiong, Hao*</a>,&nbsp;Liu, Zhiqiang*,&nbsp;Chen, Xiao,&nbsp;Wang, Huiqiu,&nbsp;Qian, Weizhong,&nbsp;Zhang, Chenxi,&nbsp;Zheng, Anmin,&nbsp; and 
-                Wei, Fei
-
-          
-
-          </div>
-
-          <!-- Journal/Book title and date -->
-          <div class="periodical">
-            <em>Science</em> 2022
-          </div>
-        
-          <!-- Links/Buttons -->
-          <div class="links">
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-            <a href="https://www.science.org/doi/10.1126/science.abn7667" class="btn btn-sm z-depth-0" role="button">HTML</a>
-          <div style="display: table;"><div style="display: table-row; height: 6px"></div>
-          <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
-          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1126/science.abn7667" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/science.abn7667" data-hide-no-mentions="true" class="altmetric-embed"></div>
-          </div><div style="display: table-row; height: 10px"></div>
-          </div>
-          
-          </div>
-
-
-
-          <!-- Hidden abstract block -->
-          <div class="abstract hidden">
-            <p>The crystallographic pore sizes of zeolites are substantially smaller than those inferred from catalytic transformation and molecular sieving capabilities, which reflects flexible variation in zeolite opening pores. Using in situ electron microscopy, we imaged the straight channels of ZSM-5 zeolite with benzene as a probe molecule and observed subcell flexibility of the framework. The opening pores stretched along the longest direction of confined benzene molecules with a maximum aspect change of 15%, and the Pnma space group symmetry of the MFI framework caused adjacent channels to deform. This compensation maintained the stability and rigidity of the overall unit cell within 0.5% deformation. The subcell flexibility originates mainly from the topologically soft silicon-oxygen-silicon hinges between rigid tetrahedral SiO4 units, with inner angles varying from 135\,^∘to 153\,^∘, as confirmed by ab initio molecular dynamics simulations. The pores of zeolites allow for selective adsorption of molecules based on their size and shape. The pore sizes that are calculated based on their structure are smaller than what is expected from their absorption and chemical reaction properties, which implies that the frameworks must have inherent flexibility. Xiong et al. used environmental transmission electron microscopy to image the straight channels of ZSM-5 zeolite with adsorbed benzene (see the Perspective by Willhammar and Zou). The pores stretched along the longest direction of the confined benzene molecules by up to 15%. This large change was compensated for by adjacent channels so that the overall deformation of the original unit cells was less than 0.5%. ?PDS Transmission electron microscopy reveals that benzene stretches channels of ZSM-5 zeolite and deforms empty adjacent channels.</p>
           </div>
         </div>
       </div>
@@ -216,7 +262,7 @@
             <a href="https://www.nature.com/articles/s41467-021-22438-z" class="btn btn-sm z-depth-0" role="button">HTML</a>
           <div style="display: table;"><div style="display: table-row; height: 6px"></div>
           <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
-          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1038/s41467-021-22438-z" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-021-22438-z" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1038/s41467-021-22438-z" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-021-22438-z" data-hide-no-mentions="true" class="altmetric-embed"></div>
           </div><div style="display: table-row; height: 10px"></div>
           </div>
           
@@ -261,7 +307,7 @@
             <a href="https://www.nature.com/articles/s41586-021-03429-y" class="btn btn-sm z-depth-0" role="button">HTML</a>
           <div style="display: table;"><div style="display: table-row; height: 6px"></div>
           <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
-          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1038/s41586-021-03429-y" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-021-03429-y" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1038/s41586-021-03429-y" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-021-03429-y" data-hide-no-mentions="true" class="altmetric-embed"></div>
           </div><div style="display: table-row; height: 10px"></div>
           </div>
           
@@ -306,6 +352,12 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a href="https://hgxb.cip.com.cn/CN/10.11949/0438-1157.20200366" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          <div style="display: table;"><div style="display: table-row; height: 6px"></div>
+          <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
+          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.11949/0438-1157.20200366" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.11949/0438-1157.20200366" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          </div><div style="display: table-row; height: 10px"></div>
+          </div>
+          
           </div>
 
 
@@ -347,7 +399,7 @@
             <a href="https://www.nature.com/articles/s41467-020-16531-y" class="btn btn-sm z-depth-0" role="button">HTML</a>
           <div style="display: table;"><div style="display: table-row; height: 6px"></div>
           <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
-          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1038/s41467-020-16531-y" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-020-16531-y" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1038/s41467-020-16531-y" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-020-16531-y" data-hide-no-mentions="true" class="altmetric-embed"></div>
           </div><div style="display: table-row; height: 10px"></div>
           </div>
           
@@ -394,7 +446,7 @@
             <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201901979" class="btn btn-sm z-depth-0" role="button">HTML</a>
           <div style="display: table;"><div style="display: table-row; height: 6px"></div>
           <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
-          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1002/smll.201901979" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/smll.201901979" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1002/smll.201901979" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/smll.201901979" data-hide-no-mentions="true" class="altmetric-embed"></div>
           </div><div style="display: table-row; height: 10px"></div>
           </div>
           
@@ -439,7 +491,7 @@
             <a href="https://onlinelibrary.wiley.com/doi/10.1002/adma.201906103" class="btn btn-sm z-depth-0" role="button">HTML</a>
           <div style="display: table;"><div style="display: table-row; height: 6px"></div>
           <div style="display: table-row;"><div style="display: table-cell; width: 10px;"></div>
-          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1002/adma.201906103" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1002/adma.201906103" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          <div style="display: table-cell;" class="__dimensions_badge_embed__" data-doi="10.1002/adma.201906103" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></div> <div style="display: table-cell;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/adma.201906103" data-hide-no-mentions="true" class="altmetric-embed"></div>
           </div><div style="display: table-row; height: 10px"></div>
           </div>
           
