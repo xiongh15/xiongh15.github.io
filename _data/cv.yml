@@ -61,6 +61,10 @@
 - title: Selected Publications
   type: time_table
   contents:
+    - title: <a href="https://hgxb.cip.com.cn/CN/10.11949/0438-1157.20221188">CIESC Journal</a>
+      year: 2023
+      description: Heavy oil to chemicals — multi-stage downer catalytic pyrolysis
+    
     - title: <a href="https://www.science.org/doi/10.1126/science.abn7667">Science</a>
       year: 2022
       description: In situ imaging of the sorption-induced subcell topological flexibility of a rigid zeolite framework 
@@ -84,14 +88,16 @@
   contents:
     - year: 2022
       items: 
-        - <b>第二十六届清华大学学术新秀</b>
+        - <b>第二十六届清华大学学术新秀 Tsinghua academic rookie</b>
+        - <b>研究生国家奖学金 China national scholarship</b>
+        
         
 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Spatial and temporal non-periodic phenomenon in sub-nanoscale heterogeneous catalysis
+    - title: <b>Spatial and temporal non-periodic phenomenon in sub-nanoscale heterogeneous catalysis</b>
       items: 
         - <b>Heterogeneous catalysis on zeolite catalysts</b>
         - <b>In-situ imaging of zeolites and absorbed small molecules at the atomic scale</b>
