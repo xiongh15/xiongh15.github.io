@@ -97,7 +97,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: <b>Spatial and temporal non-periodic phenomenon in sub-nanoscale heterogeneous catalysis</b>
+    - title: Spatial and temporal non-periodic phenomenon in sub-nanoscale heterogeneous catalysis
       items: 
         - <b>Heterogeneous catalysis on zeolite catalysts</b>
         - <b>In-situ imaging of zeolites and absorbed small molecules at the atomic scale</b>
